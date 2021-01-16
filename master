@@ -1,38 +1,12 @@
 ##############################
-## Program: Lab 02
+## Program: milesToKilometersConverter
 ## Author: Rhea Smith
 ## Date: 07/05/2020
 ## Description: This program will prompt the user for a distance in miles or kilometers
 ##              and will convert that distance to the opposite unit (miles or kilometers).
 ## Input: choice, miles, kilometers, convertToMi, convertToKm
 ## Output: newMiles, newKilometers
-##
-## Psuedocode:
-## display choice "Is your distance in miles (m) or kilometers (k)?"
-## input m or k
-##
-## input miles
-## define convertToKm
-## set newKilometers = miles * convertToKm
-## display "That's", newKilometers, "kilometers!"
-##
-## input kilometers
-## define convertToMi
-## set newMiles = kilometers * convertToMiles
-## display "That's", newMiles, "miles!"
-##
-## display "Invalid entry. Please type m for miles or k for kilometers."
-## input m or k (repeat options)
-##
-## input miles
-## define convertToKm
-## set newKilometers = miles * convertToKm
-## display "That's", newKilometers, "kilometers!"
-##
-## input kilometers
-## define convertToMi
-## set newMiles = kilometers * convertToMiles
-## display "That's", newMiles, "miles!"
+##############################
 
 
 ## User choice of calculator option (m or k)
